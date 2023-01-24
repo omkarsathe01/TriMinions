@@ -1,0 +1,85 @@
+
+
+#scrollUpBtn {
+    /* position: absolute; */
+    position: fixed;
+    bottom: 15%;
+    right: 3%;
+    background: none;
+    border: none;
+    cursor: pointer;
+    /* line-height: 20px;
+    size: 10px; */
+}
+
+#scrollUpBtn img {
+    height: 30px;
+}
+
+#pauseBtn{
+    position: fixed;
+    bottom: 9%;
+    right: 3%;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#pauseBtn img {
+    height: 30px;
+}
+
+#scrollDownBtn{
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#scrollDownBtn img {
+    height: 30px;
+}
+
+
+/* 
+
+
+#scrollUpBtn{
+    bottom: 21%;
+    right: 3%;
+    position: fixed;
+    background-color: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 0;
+    cursor: pointer;
+    margin: 10px;
+}
+    
+pauseBtn{
+    bottom: 12%;
+    right: 3%;
+    position: fixed;
+    background-color: none;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#scrollDownBtn{
+    bottom: 3%;
+    right: 3%;
+    position: fixed;
+    background-color: none;
+    color: none;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+} */
